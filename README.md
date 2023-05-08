@@ -29,4 +29,4 @@ Discord: https://discord.gg/fR92UvZAvD
 Discord: https://discord.gg/vacuum
 
 ## Mentor Cycle
-Discord:
+Discord:  https://discord.gg/WRD3uT3JaC
