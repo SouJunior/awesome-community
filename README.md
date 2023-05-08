@@ -2,14 +2,14 @@
 Lista das comunidades que tem sinergia com a @SouJunior.
 
 ## Ecosistema SouJunior  
-* SouJunior Talk : https://discord.gg/yqRB67XQ2k
-* SouJunior Lab : https://discord.gg/soujunior-community-759176734460346423
+* SouJunior Talk : https://discord.gg/yqRB67XQ2k  
+* SouJunior Lab : https://discord.gg/soujunior-community-759176734460346423  
 * SouJunior Freela - Fechado.
 
 ## Vagas UX  
-Site: https://vagasux.com.br/
-Telegram: https://t.me/guiadoproductdesigner
-Discord: https://discord.gg/cBmHnamhx7
+Site: https://vagasux.com.br/   
+Telegram: https://t.me/guiadoproductdesigner  
+Discord: https://discord.gg/cBmHnamhx7  
  
 ## Menina CyberSec  
 Instagram: https://www.instagram.com/meninadecybersec/
