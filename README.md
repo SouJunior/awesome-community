@@ -22,8 +22,8 @@ Instagram: https://www.instagram.com/shirleyrrios/
 Discord:  https://discord.gg/orangejuicetech
 
 ## Skills Network  
-Discord: https://discord.gg/skills-jobs-education-1004163330258256003
-Discord: https://discord.gg/fR92UvZAvD
+Discord: https://discord.gg/skills-jobs-education-1004163330258256003   
+Discord: https://discord.gg/fR92UvZAvD  
 
 ## Vacuum  
 Discord: https://discord.gg/vacuum
