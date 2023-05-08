@@ -1,15 +1,15 @@
-# Awesome Community
+# Awesome Community  
 Lista das comunidades que tem sinergia com a @SouJunior.
 
-## Ecosistema SouJunior
+## Ecosistema SouJunior  
 * SouJunior Talk : https://discord.gg/yqRB67XQ2k
 * SouJunior Lab : https://discord.gg/soujunior-community-759176734460346423
 * SouJunior Freela - Fechado.
 
-## Vagas UX
+## Vagas UX  
 Discord: https://discord.gg/cBmHnamhx7
-
-## Menina CyberSec
+ 
+## Menina CyberSec  
 Instagram: https://www.instagram.com/meninadecybersec/
 
 ## Tech para o bem 	
@@ -18,11 +18,12 @@ LinkedIn : https://www.linkedin.com/company/techprobem/
 ## Shirley Rios 	
 Instagram: https://www.instagram.com/shirleyrrios/
 
-## Orange Juice
+## Orange Juice  
 Discord:  https://discord.gg/orangejuicetech
 
-## Skills Network
+## Skills Network  
 Discord: https://discord.gg/skills-jobs-education-1004163330258256003
+Discord: https://discord.gg/fR92UvZAvD
 
-## Vacuum
+## Vacuum  
 Discord: https://discord.gg/vacuum
