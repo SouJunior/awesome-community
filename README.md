@@ -6,29 +6,37 @@ Lista das comunidades que tem sinergia com a @SouJunior.
 * SouJunior Lab : https://discord.gg/soujunior-community-759176734460346423  
 * SouJunior Freela - Fechado.
 
-## Vagas UX  
+## Vagas UX
+Descrição: Comunidade que cuida da galera de UX  
 Site: https://vagasux.com.br/   
 Telegram: https://t.me/guiadoproductdesigner  
 Discord: https://discord.gg/cBmHnamhx7  
  
 ## Menina CyberSec  
+Descrição: Comunidade de segurança da informação.  
 Instagram: https://www.instagram.com/meninadecybersec/
 
 ## Tech para o bem 	
+Descrição: Comunidade que faz projeto, alguns para ONG  
 LinkedIn : https://www.linkedin.com/company/techprobem/
 
 ## Shirley Rios 	
-Instagram: https://www.instagram.com/shirleyrrios/
+Descrição: Influenciadora que fala sobre programação.   
+Instagram: https://www.instagram.com/shirleyrrios/ 
 
 ## Orange Juice  
+Descrição: Comunidade com varios eventos e desafios.  
 Discord:  https://discord.gg/orangejuicetech
 
-## Skills Network  
+## Skills Network    
+Descrição: Comunidade voltada para projetos e networking.   
 Discord: https://discord.gg/skills-jobs-education-1004163330258256003   
 Discord: https://discord.gg/fR92UvZAvD  
 
 ## Vacuum  
+Descrição: Comunidade com desafios.   
 Discord: https://discord.gg/vacuum
 
 ## Mentor Cycle
+Descrição: Comunidade que faz projetos em diversas areas.  
 Discord:  https://discord.gg/WRD3uT3JaC
