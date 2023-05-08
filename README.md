@@ -7,6 +7,8 @@ Lista das comunidades que tem sinergia com a @SouJunior.
 * SouJunior Freela - Fechado.
 
 ## Vagas UX  
+Site: https://vagasux.com.br/
+Telegram: https://t.me/guiadoproductdesigner
 Discord: https://discord.gg/cBmHnamhx7
  
 ## Menina CyberSec  
