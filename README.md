@@ -40,3 +40,11 @@ Discord: https://discord.gg/vacuum
 ## Mentor Cycle
 Descrição: Comunidade que faz projetos em diversas areas.  
 Discord:  https://discord.gg/WRD3uT3JaC
+
+## He4rt Developers
+Descrição: Auxiliar/ensinar pessoas que estão entrando nesse maravilhoso mundo que é a Programação.
+Site: https://heartdevs.com/#about
+GitHub: https://github.com/he4rt
+Twitter: https://twitter.com/He4rtDevs
+Instagram: https://www.instagram.com/heartdevs/
+Discord: https://discord.com/invite/5kwDQuv
